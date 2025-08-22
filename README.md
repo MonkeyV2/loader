@@ -1,2 +1,1 @@
-# loader
-MonkeyV2 is the best script ever.
+# monkeyv2 scripts
